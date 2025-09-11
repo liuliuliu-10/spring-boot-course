@@ -7,3 +7,18 @@ my:
     today: 周五
     content: 期待周末
     author: "小程序员"
+
+  # 功能开关
+  feature:
+    helloSwitch: false
+    closeMsg: "该接口正在维护，10分钟后再来吧！"
+
+lyf:
+  sms:
+    ccp:
+      serverIp: app.cloopen.com
+      port: 8883
+      accountSId: 2c94811c9860a9c4019919a041371fdf
+      accountToken: 5ce7bc39333d42049d3868fc00526af0
+      appId: 2c94811c9860a9c4019919a0429f1fe6
+      templateId: 1
